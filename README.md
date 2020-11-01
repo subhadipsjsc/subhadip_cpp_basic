@@ -38,3 +38,9 @@ commands :
 `g++ -o ./complied/3_userinput.out 3_userinput.cpp && ./complied/3_userinput.out`
 
 `g++ -o ./complied/4_strings.out 4_strings.cpp && ./complied/4_strings.out`
+
+`g++ -o ./complied/5_array.out 5_array.cpp && ./complied/5_array.out`
+
+`g++ -o ./complied/6_loops.out 6_loops.cpp && ./complied/6_loops.out`
+
+`g++ -o ./complied/7_pointers_ref.out 7_pointers_ref.cpp && ./complied/7_pointers_ref.out`
