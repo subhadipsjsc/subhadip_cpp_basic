@@ -54,8 +54,20 @@ commands for function folder projects :
 
 `g++ -o ./functions/complied/2_func_overloading.out ./functions/2_func_overloading.cpp && ./functions/complied/2_func_overloading.out`
 
+`g++ -o ./functions/complied/3_function_template.out ./functions/3_function_template.cpp && ./functions/complied/3_function_template.out`
 
 
-commands for function folder projects :
 
-`g++ -o ./oop/complied/1_oop_basic.out ./functions/1_oop_basic.cpp && ./oop/complied/1_oop_basic.out`
+commands for oop folder projects :
+
+`g++ -o ./oop/complied/1_oop_basic.out ./oop/1_oop_basic.cpp && ./oop/complied/1_oop_basic.out`
+
+`g++ -o ./oop/complied/2_access_specifier.out ./oop/2_access_specifier.cpp && ./oop/complied/2_access_specifier.out`
+
+`g++ -o ./oop/complied/3_Inheritance.out ./oop/3_Inheritance.cpp && ./oop/complied/3_Inheritance.out`
+
+`g++ -o ./oop/complied/4_Multiple_Inheritance.out ./oop/4_Multiple_Inheritance.cpp && ./oop/complied/4_Multiple_Inheritance.out`
+
+`g++ -o ./oop/complied/5_member_initializer_1.out ./oop/5_member_initializer_1.cpp && ./oop/complied/5_member_initializer_1.out`
+
+`g++ -o ./oop/complied/5_member_initializer_2.out ./oop/5_member_initializer_2.cpp && ./oop/complied/5_member_initializer_2.out`
